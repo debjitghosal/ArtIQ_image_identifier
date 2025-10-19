@@ -1,4 +1,5 @@
 **# ArtIQ_image_identifier**Below is a polished **README.md** tailored for your Style Classifier project, highlighting the technical flow and deployment, ideal for showcasing on GitHub or your portfolio.
+<img width="1878" height="913" alt="image" src="https://github.com/user-attachments/assets/e8f05c6f-2e0b-4543-a760-1c9fcc0dbde7" />
 
 ---
 
